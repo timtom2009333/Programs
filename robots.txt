@@ -1,0 +1,4 @@
+User-agent: 
+Crawl-delay: 1
+Host: https://programscourse.netlify.app
+Sitemap: https://programscourse.netlify.app/Sitemap.xml
